@@ -113,7 +113,7 @@ This section will describe the method name(s) decided for the Nimiq.ID API.
 
 ## Adoption Strategy
 
-To achieve widespread adoption, server-side implementations authenticate Nimiq.ID users will have to be developed let app developers or admins easily integrate Nimiq.ID into systems such as Wordpress, Laravel, ExpressJS, Discourse, and many more.
+To achieve widespread adoption, server-side implementations to authenticate Nimiq.ID users will have to be developed to let app developers or admins easily integrate Nimiq.ID into systems such as Wordpress, Laravel, ExpressJS, Discourse, and many more.
 
 ## Unresolved Questions
 
