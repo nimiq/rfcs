@@ -90,7 +90,7 @@ However, it also means that all apps the user authenticates with with their Acco
 Using this method ensures that each app receives a unique user identifier even when authenticating with the same Account, preventing users from being tracked across apps. On the other hand, it also prevents preemptively deriving and storing authentication addresses in the Hub upon Account login, since apps the user authenticated with are not persisted outside the users’ browser. (A potential future “Nimiq Sync Service” would solve this problem.) Authentication addresses should thus not be used for currency transfers from/to the app.
 4. The user could select any of their stored addresses to use for authentication and can also derive new ones to use. Keeping track of which address was used with a certain service, so that later logins use the same address, would be the responsibility of the user, until a syncinc service is available.
 
-For this RFC to become accepted, one derivation method has to be decided on and the others removed (or moved to [#alternatives] below).
+For this RFC to become accepted, one derivation method has to be decided on and the others removed (or moved to [Alternatives](#alternatives) below).
 
 ### API Method Name
 
