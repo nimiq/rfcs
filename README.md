@@ -118,6 +118,10 @@ A member of the [team] then closes the RFC's associated pull request.
 member will merge the RFC's pull request, at which point the RFC will become
 'accepted'.
 
+_Changes to this RFC process can be suggested through issues on this
+repository or by changing the process description in this README through
+a pull request._
+
 ## Details on Accepted RFCs
 
 Once an RFC gets accepted, authors may implement it and submit the
